@@ -1,0 +1,29 @@
+{
+  "name": "lesstext.js",
+  "version": "0.0.1",
+  "description": "a js version of the lorem ipsum part of tka/serve/lib/serve/view_helpers.rb",
+  "main": "lesstext.js",
+  "scripts": {
+    "prepublish": "./node_modules/.bin/lsc -c ./lesstext.ls",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:caasi/lesstext.js"
+  },
+  "keywords": [
+    "lorem",
+    "Chinese",
+    "Japanese",
+    "English"
+  ],
+  "author": "caasi Huang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caasi/lesstext.js/issues"
+  },
+  "homepage": "https://github.com/caasi/lesstext.js",
+  "devDependencies": {
+    "LiveScript": "^1.2.0"
+  }
+}
