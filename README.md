@@ -2,6 +2,12 @@
 
 As a light weight version of [MoreText.js](http://more.handlino.com/), this is a pure js implemetation of the lorem ipsum part of [view_helpers.rb](https://github.com/tka/serve/blob/master/lib/serve/view_helpers.rb#L542-L786) which can be used in front-end or back-end without making any request.
 
+## Installation
+
+```shell
+npm install lesstext
+```
+
 ## Usage
 
 ```JavaScript
