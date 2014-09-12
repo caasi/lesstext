@@ -1,6 +1,6 @@
 {
-  "name": "lesstext.js",
-  "version": "0.0.1",
+  "name": "lesstext",
+  "version": "0.0.2",
   "description": "a js version of the lorem ipsum part of tka/serve/lib/serve/view_helpers.rb",
   "main": "lesstext.js",
   "scripts": {
